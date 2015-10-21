@@ -13,7 +13,7 @@ module.exports = {
         {
             id: 'dan-wahlin',
             firstName: 'Dan',
-            lastnmae: 'Wahlin'
+            lastName: 'Wahlin'
         }
     ]
 };
